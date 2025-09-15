@@ -1,0 +1,5 @@
+{
+  "name": "AI Manga Studio",
+  "description": "A tool that uses AI to create manga, supporting script generation, storyboard layout, and character style control.",
+  "requestFramePermissions": []
+}

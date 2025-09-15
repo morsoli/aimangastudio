@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/logo.svg" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AI Manga Studio</title>
+  <!-- Primary SEO -->
+  <meta name="description" content="一个利用 AI 制作漫画的工具，支持脚本创作、分镜设计和角色风格控制。用AI一键生成你的专属漫画。" />
+  <meta name="keywords" content="AI, Manga, Comics, Generation, Storytelling, Art" />
+  <meta name="author" content="莫尔索" />
+  <link rel="canonical" href="https://aimangastudio.liduos.com" />
+  <meta name="robots" content="index, follow" />
+  <meta name="theme-color" content="#f3f4f6" />
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="AI Manga Studio" />
+  <meta property="og:description" content="一个利用 AI 制作漫画的工具，支持脚本创作、分镜设计和角色风格控制。用AI一键生成你的专属漫画。" />
+  <meta property="og:url" content="https://aimangastudio.liduos.com" />
+  <meta property="og:site_name" content="AIMangaStudio" />
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="AI Manga Studio" />
+  <meta name="twitter:description" content="一个利用 AI 制作漫画的工具，支持脚本创作、分镜设计和角色风格控制。用AI一键生成你的专属漫画。" />
+  <!-- Keep Tailwind and importmap order -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script type="importmap">
+{
+  "imports": {
+    "react-dom/": "https://aistudiocdn.com/react-dom@^19.1.1/",
+    "react/": "https://aistudiocdn.com/react@^19.1.1/",
+    "react": "https://aistudiocdn.com/react@^19.1.1",
+    "@google/genai": "https://aistudiocdn.com/@google/genai@^1.16.0"
+  }
+}
+</script>
+<link rel="stylesheet" href="/index.css">
+</head>
+  <body class="bg-gray-100 text-gray-800">
+    <div id="root"></div>
+    <script type="module" src="/index.tsx"></script>
+  </body>
+</html>
