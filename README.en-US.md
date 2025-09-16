@@ -2,6 +2,7 @@
 
 [![中文](https://img.shields.io/badge/-中文-0078D7?style=flat-square)](./README.md) [![English](https://img.shields.io/badge/-English-4CAF50?style=flat-square)](./README.en-US.md) [![日本語](https://img.shields.io/badge/-日本語-F44336?style=flat-square)](./README.ja-JP.md)
 
+![og image](./og.webp)
 
 A tool that uses AI to create manga, supporting script generation, storyboard layout, and character style control.
 

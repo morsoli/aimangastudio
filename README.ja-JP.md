@@ -2,6 +2,8 @@
 
 [![中文](https://img.shields.io/badge/-中文-0078D7?style=flat-square)](./README.md) [![English](https://img.shields.io/badge/-English-4CAF50?style=flat-square)](./README.en-US.md) [![日本語](https://img.shields.io/badge/-日本語-F44336?style=flat-square)](./README.ja-JP.md)
 
+![og image](./og.webp)
+
 AIを活用してマンガを制作するためのツールで、脚本生成、絵コンテレイアウト、キャラクタースタイル管理をサポートします。
 
 ## プロジェクト概要
